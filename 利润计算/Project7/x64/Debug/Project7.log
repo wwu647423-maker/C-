@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+D:\visual studio\Project7\Project7\FileName.cpp(21,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\visual studio\Project7\Project7\FileName.cpp(26,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\visual studio\Project7\Project7\FileName.cpp(31,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\visual studio\Project7\Project7\FileName.cpp(36,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\visual studio\Project7\Project7\FileName.cpp(41,69): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\visual studio\Project7\Project7\FileName.cpp(46,81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project7.vcxproj -> D:\visual studio\Project7\x64\Debug\Project7.exe
